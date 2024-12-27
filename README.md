@@ -63,7 +63,7 @@ Hospital-Data-Analysis/
 
 ## **Insights**
 - **Age Distribution**: Majority of the patients are aged between 51-60, which is indicative of the age group that predominantly requires medical attention.
-  reports/screenshots/download01.png
+  [](reports/screenshots/download01.png)
 - **Medical Conditions by Age Group**: Ages 61 and above have the highest occurrence of medical conditions, with Diabetes, Hypertension, and Asthma slightly more prevalent than other conditions.
 - **Average Billing Amount**: Obesity has the highest average treatment cost among all medical conditions, indicating it is the most expensive to manage.
 - **Average Length of Stay**: Emergency admissions result in the longest hospital stays, followed by Elective and Urgent admissions.
