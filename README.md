@@ -19,7 +19,7 @@ This repository contains an end-to-end analysis of hospital data to uncover mean
 6. **What are the admission trends over time?**: We analyzed the number of admissions over time to identify any trends or patterns.
 7. **What is the test result distribution across different conditions?**: We explored the distribution of test results (normal, abnormal, inconclusive) across different medical conditions.
 
-### Link to Notebook >> [Link](notebooks/Health-Care-Dataset-using-Pyspark.ipynb)
+### Link to Notebook >> [Link](notebooks/Health%20Care%20Dataset%20using%20Pyspark.ipynb)
 
 ## **Project Structure**
 ```
