@@ -76,7 +76,7 @@ Hospital-Data-Analysis/
 - **Average Length of Stay**: Emergency admissions result in the longest hospital stays, followed by Elective and Urgent admissions.
 ![Stay](reports/screenshots/download05.png)
   
-- **Insurance Provider Distribution**: Heatmap displays the concentration of insurance providers for each medical condition. For instance, Cigna is the most common for athsma, while Aetna is least for same asthma.Grouped Bar Chart Highlights individual contributions of each provider per condition. This can inform partnerships with specific insurers based on the medical conditions they most commonly cover such as Blue cross for Obesity, Medicare for diabetes, Cigna for Arthritis, etc.
+- **Insurance Provider Distribution**: Heatmap displays the concentration of insurance providers for each medical condition. For instance, Cigna is the most common for athsma, while Aetna is least for same asthma while the grouped bar chart highlights individual contributions of each provider per condition. This can inform partnerships with specific insurers based on the medical conditions they most commonly cover such as Blue cross for Obesity, Medicare for diabetes, Cigna for Arthritis, etc.
 ![Insurance](reports/screenshots/download06.png)
 ![Insurance_b](reports/screenshots/download07.png)
 
