@@ -1,5 +1,5 @@
 
-# Hospital Data Analysis
+# Health Analytics: Patient demographics, medical conditions, and healthcare utilization analytics.
 
 ## **Overview**
 This repository contains an end-to-end analysis of hospital data to uncover meaningful insights that can aid hospital operations, patient care, and cost management. The project focuses on answering specific business questions using structured and unstructured data analysis techniques.
